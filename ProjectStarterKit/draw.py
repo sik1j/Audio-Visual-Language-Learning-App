@@ -4,9 +4,11 @@
 
 import cmpt120image
 
+# Jon
 def recolorImage(img,color):
   # Add your code here
 
+# Sikij
 def minify(img):
   # Add your code here
   
