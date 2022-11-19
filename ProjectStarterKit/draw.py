@@ -21,14 +21,10 @@ def mirror(img):
 def drawItem(canvas,item,row,col):
   # Add your code here
   
-def distributeItems(canvas,item,n):
-  #grabs size of the canvas
-  row_length = canvas.getHeight()
-  column_length = canvas.getWidth()
-  
+def distributeItems(canvas,item,n): 
   #loop to draw n items
   for i in range(n):
-    row = random.randint(0, row_length)
-    col = random.randint(0, column_length)
+    row = random.randint(0, 300)
+    col = random.randint(0, 400)
     drawItem(canvas, item, row, col)
   
