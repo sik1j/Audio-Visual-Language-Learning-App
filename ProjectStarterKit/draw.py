@@ -1,4 +1,5 @@
 # Your header
+#Jonathan Chan 301553184
 
 import cmpt120image
 
