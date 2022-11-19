@@ -22,11 +22,11 @@ def drawItem(canvas,item,row,col):
   # Add your code here
   
 def distributeItems(canvas,item,n):
-  # Add your code here
-  #use drawItem(canvas,item,row,col):
-  #use random for row and col
+  #grabs size of the canvas
   row_length = canvas.getHeight()
   column_length = canvas.getWidth()
+  
+  #loop to draw n items
   for i in range(n):
     row = random.randint(0, row_length)
     col = random.randint(0, column_length)
