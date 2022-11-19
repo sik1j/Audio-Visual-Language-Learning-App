@@ -17,8 +17,10 @@ def minify(img):
 def mirror(img):
   # Add your code here
   
-def drawItem(img,item,row,col):
+def drawItem(canvas,item,row,col):
   # Add your code here
   
-def distributeItems(img,item,n):
+def distributeItems(canvas,item,n):
   # Add your code here
+  #use drawItem(canvas,item,row,col):
+  #use random for row and col
