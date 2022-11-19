@@ -9,7 +9,9 @@ import random
 
 # Jon
 def recolorImage(img,color):
-  # Add your code here
+  # if r<255 or g<255 or b<255 then not white
+  # set rgb to color, r=color[0], g=color[1], b=color=[2]
+  # use cmpt120image.getBlackImage()
 
 # Sikij
 def minify(img):
