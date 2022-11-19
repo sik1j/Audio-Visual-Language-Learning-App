@@ -2,6 +2,8 @@
 # Jonathan Chan 301553184
 # Sikij Karki 301
 
+# your mother is a very nice woman
+
 import cmpt120image
 
 # Jon
