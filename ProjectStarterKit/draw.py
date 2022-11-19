@@ -1,5 +1,6 @@
 # Your header
-#Jonathan Chan 301553184
+# Jonathan Chan 301553184
+# Sikij Karki 301
 
 import cmpt120image
 
